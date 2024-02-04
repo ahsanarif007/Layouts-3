@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    height: 50%;
+    background-color: rgb(240, 139, 45);
+    color: blanchedalmond;
+    text-align: center;
+    font-size: large;
+}
+
+.mid{
+    display: flex;
+    
+}
+.midone{
+    width: 20%;
+    background-color: rgb(155, 221, 235);
+    text-align: center;
+    color: rgb(6, 165, 165);
+    height: 700px;
+}
+.midtwo{
+    width: 70%;
+    background-color: rgb(94, 156, 236);
+    height: 700px;
+}
+.mid_top{
+height: 20%;
+background-color: brown;
+text-align: center;
+}
+.mid_m{
+    height: 60%;
+background-color: rgb(230, 207, 207);
+text-align: center;
+}
+.mid_bottom{
+    height: 20%;
+background-color: brown;
+text-align: center;
+}
+
+
+.midthree{
+    width: 20%;
+    background-color: rgb(23, 113, 136);
+    text-align: center;
+    color: rgb(236, 196, 216);
+    height: 700px;
+}
+.footer{
+    text-align: center;
+    background-color: rgb(10, 9, 10);
+    color: rgb(213, 226, 221);
+    font-size: large;
+    height: 50px;
+}
